@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gmamarketing.co/sitemap.xml
+Sitemap: https://gma-marketing.netlify.app/sitemap.xml
